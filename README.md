@@ -69,3 +69,5 @@ net.load_state_dict(torch.load('model.pth'))
 # Results:
 After training the model for 5 epochs, the achieved accuracy on the test dataset was X%. The model performs well on distinguishing between pens and pencils, and can be improved further with more data or fine-tuning the architecture.
 
+ ![image](https://github.com/user-attachments/assets/77fcc9a2-df59-49ba-a45a-609846dce00b)
+
